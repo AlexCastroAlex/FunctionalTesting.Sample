@@ -1,1 +1,1 @@
-# AutoMapper.Samples
+# FunctionalTesting.Samples
